@@ -1,1 +1,1 @@
-# my_resume
+# A sample plain HTML page for my resume
